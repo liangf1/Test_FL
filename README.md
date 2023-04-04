@@ -6,6 +6,7 @@
     </div> <br>
 
 # 🙌 Welcome to Free-Hit
+# I added a new line here for my DSCI 601 M11 Github Homework
 
 + As we all prefer open-source softwares for our daily use, it can be difficult to find tools that are specific to our needs. This is where  **Free-Hit** comes in.
 + Free-Hit is a tool used to search for open-source projects that are both free and helpful for our needs
